@@ -66,7 +66,3 @@ Each `.md` has YAML frontmatter (`cses_id`, `title`, `category`, `url`, `time_li
 - Rethrows if the index yields < 250 problems (markup change guard).
 - Cached runs skip existing `md`+`json` unless `--refresh` is set.
 - Output dir (`cses-statements/`) is git-ignored; commit it only if you want a snapshot.
-
-## Disclaimer
-
-For personal / archival use. Respect `cses.fi` terms and don't hammer the server.
