@@ -1,0 +1,13 @@
+{
+  "name": "cses-statement-scraper",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "bun run scrape.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "turndown": "^7.2.1",
+    "turndown-plugin-gfm": "^1.0.2"
+  }
+}
