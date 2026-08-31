@@ -66,3 +66,12 @@ Each `.md` has YAML frontmatter (`cses_id`, `title`, `category`, `url`, `time_li
 - Rethrows if the index yields < 250 problems (markup change guard).
 - Cached runs skip existing `md`+`json` unless `--refresh` is set.
 - Output dir (`cses-statements/`) is git-ignored; commit it only if you want a snapshot.
+
+## License
+
+Licensed under either of
+
+- Apache License, Version 2.0 ([`LICENSE-APACHE`](LICENSE-APACHE))
+- MIT license ([`LICENSE-MIT`](LICENSE-MIT))
+
+at your option.
